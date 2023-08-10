@@ -1,0 +1,86 @@
+html{
+    background-color: #f7f9ff;
+}
+header{
+    color: #2b3674;
+    padding-left: 225px;
+    font-size: 24px;
+    padding-top: 25px;
+}
+#container{
+    display: flex;
+    justify-content:space-evenly;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+}
+.card{
+    background-color:#ffffff;
+    border-radius: 5px;
+    width: 140px;
+}
+.note{
+    font-family: "Plus Jakarta Sans";
+    color: #bac2dc;
+    font-size: 10px;
+    line-height: 18px;
+}
+.somme{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2b3674;
+    font-family: "Plus Jakarta Sans";
+}
+#mot{
+    color: #bac2dc;
+    font-size: 10px;
+}
+#blocA{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-bottom: 20px;
+    height: 150px;
+}
+#blocB{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;  
+    height: 150px;
+}
+#conteneur{
+    align-items: center;
+    text-align: center;
+    padding-top: 90px;
+}
+.A{
+    width: 35%;
+    background-color:#ffffff;
+    border-radius: 7px;
+}
+.B{
+    width: 35%;
+    background-color:#ffffff;
+    border-radius: 5px;
+}
+.C{
+    width: 35%;
+    background-color:#ffffff;
+    border-radius: 5px;
+}
+.D{
+    width: 35%;
+    background-color:#ffffff;
+    border-radius: 5px;
+}
+img{
+    width: 60px;
+    margin-top: 20px;
+}
+h4{
+    font-size: 24px;
+    color: #2b3674;
+    font-family: "Plus Jakarta Sans";
+}
